@@ -49,7 +49,7 @@
 <ul>
     <li><strong>Backend:</strong> ASP.NET Core, C#, Entity Framework Core.</li>
     <li><strong>Frontend:</strong> HTML5, CSS3, JavaScript (jQuery), Bootstrap.</li>
-    <li><strong>Искусственный интеллект:</strong> Интеграция с моделями машинного обучения (например, TensorFlow, PyTorch или GPT).</li>
+    <li><strong>Искусственный интеллект:</strong> Интеграция с моделями машинного обучения (TensorFlow, PyTorch или GPT).</li>
     <li><strong>База данных:</strong> Microsoft SQL Server / SQLite для хранения данных пользователя.</li>
     <li><strong>Хостинг:</strong> Azure, AWS или другие облачные платформы.</li>
     <li><strong>Дополнительно:</strong> Docker для контейнеризации, RESTful API для внешних запросов.</li>
